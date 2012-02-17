@@ -1,0 +1,2 @@
+A simple CodeIssue (using the Roslyn API) to ensure that any string parameters 
+supplied to NotifyPropetyChanged match their enclosing property name.
